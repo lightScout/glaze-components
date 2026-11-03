@@ -10,9 +10,9 @@ Tags: `text`, `animation`, `morph`
 |---|---|
 | [MorphText.kt](MorphText.kt) | common |
 
-## Reference
+## Origin
 
-Based on https://21st.dev/community/components/victorwelander/gooey-text-morphing/default
+Ported to Compose from https://21st.dev/community/components/victorwelander/gooey-text-morphing/default. The original's licence is in [NOTICE](NOTICE).
 
 ---
 
