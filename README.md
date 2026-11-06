@@ -11,6 +11,7 @@ Each folder here is exactly what the app shows in its Code tab: the Kotlin (and 
 | [Multiplatform Settings](components/multiplatform-settings/) | Persist key-value preferences across Android (SharedPreferences) and iOS (NSUserDefaults) from shared KMP code. | android, common, ios |
 | [Android ProGuard](components/android-proguard/) | R8/ProGuard setup for Android KMP projects: minification, resource shrinking, and keep rules for Compose, Kotlin Serialization, Firebase Auth, AndroidX Credentials, and Multiplatform Settings. | android |
 | [Morph Text](components/morph-text/) | Morphing text transition using blur + threshold compositing. | common |
+| [Gooey Dots](components/gooey-dots/) | A loader whose dots melt into each other, in three styles: bead chain, orbit, and split and join. | common |
 <!-- components:end -->
 
 ## How this repo is kept in sync
